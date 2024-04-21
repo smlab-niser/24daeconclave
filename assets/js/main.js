@@ -10,19 +10,10 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 
 
 
-L.marker([47.789169035641905, 18.961446798474288])
+L.marker([20.17146235823554, 85.68426322527682])
     
     .addTo(map)
-    .bindTooltip("<strong>This is a tooltip</strong><br>It is easily customizable with title and text");
-    
-
-
-
-
-L.marker([47.78691841448565, 18.967277537789023])
-    
-    .addTo(map)
-    .bindTooltip("<strong>This is a tooltip with no text</strong>");
+    .bindTooltip("<strong>Pathani Samanta Auditorium, NISER</strong>");
     
 
 
